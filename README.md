@@ -2,6 +2,18 @@
 
 A standalone [libgvc](https://gitlab.gnome.org/GNOME/libgnome-volume-control) for Ignis.
 
+## Installing
+
+### Arch Linux
+
+ignis-gvc is available in AUR:
+- [ignis-gvc](https://aur.archlinux.org/packages/ignis-gvc) 
+- [ignis-gvc-git](https://aur.archlinux.org/packages/ignis-gvc-git)
+
+### Nix
+
+Should be installed together with Ignis.
+
 ## Building
 
 ```bash
